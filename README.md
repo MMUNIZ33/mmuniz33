@@ -1,4 +1,4 @@
-## ```Oiiie!``` Me chamo Matheus Muniz, sou estudande de programação
+## ```Olá!``` Me chamo Matheus Muniz, sou estudande de programação
 
 Sou um jovem estudante de programação, gosto muito da linguagem C#.  
 Busco me tornar cada vez melhor e escrever códigos de qualidade.
