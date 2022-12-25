@@ -1,7 +1,10 @@
-## ```Olá!``` Me chamo Matheus Muniz, sou estudande de programação
+Oi, eu sou Matheus Muniz 🙋🏻‍♂️ e sou Desenvolvedor de Software 💻.
 
-Sou um jovem estudante de programação, gosto muito da linguagem C#.  
-Busco me tornar cada vez melhor e escrever códigos de qualidade.
+Adoro trabalhar com código e acho que é uma coisa muito legal poder criar coisas novas com a programação. Minha linguagem favorita é o C#, mas também tenho experiência com o SQL, Git e um pouco de HTML 📝.
+
+Já trabalho na área há dois anos e, no momento, estou estudando Análise e Desenvolvimento de Sistemas 📚. Adoro aprender coisas novas e sempre estou procurando oportunidades para me desenvolver e crescer como profissional 💪🏻.
+
+Obrigado por parar aqui no meu perfil do GitHub! 🙏🏻
 
 ##
 
