@@ -6,6 +6,10 @@ Já trabalho na área há dois anos e, no momento, estou estudando Análise e De
 
 Obrigado por parar aqui no meu perfil do GitHub! 🙏🏻
 
+##
+
+![Snake animation](https://github.com/mmuniz33/mmuniz33/blob/output/github-contribution-grid-snake.svg)
+
 ## Linguagens
 
 [<img align="center" alt="mat-Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">](https://github.com/MMUNIZ33)
