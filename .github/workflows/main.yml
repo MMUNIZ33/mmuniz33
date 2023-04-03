@@ -2,7 +2,8 @@ name: Generate README
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Runs every 12 hours
+  # Será atualizado a cada 5 horas.
+    - cron: "0 */5 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,8 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Updating README
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: mmuniz33
