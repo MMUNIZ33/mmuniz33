@@ -3,7 +3,8 @@
 Sou um **Desenvolvedor Back-End** especializado em **C#**, **.NET Core**, **SQL** e **DevExpress**. 
 Crio soluções eficientes e escaláveis, sempre buscando qualidade e performance.
 
----
+> _"Transformando café em código, todos os dias."_ ☕
+
 
 ## ⚙️ &nbsp;Tecnologias e Ferramentas
 <p align="left">
@@ -13,22 +14,16 @@ Crio soluções eficientes e escaláveis, sempre buscando qualidade e performanc
   <img src="https://img.shields.io/badge/DevExpress-ff7200?style=for-the-badge&logo=devexpress&logoColor=white" alt="DevExpress"/>
 </p>
 
----
-
 ## 🌐 &nbsp;Onde me encontrar
 <p align="left">
   <!-- Ajuste os links e nomes conforme seu usuário/URLs -->
-  <a href="https://instagram.com/seu_perfil" target="_blank">
+  <a href="https://instagram.com/matthews.muniz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:seu_email" target="_blank">
+  <a href="mailto:mmuniz.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/seu_linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/mattheus-muniz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
-
-> _"Transformando café em código, todos os dias."_ ☕
