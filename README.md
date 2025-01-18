@@ -1,17 +1,34 @@
-![welcome](.github/workflows/MatheusMuniz.png)
+# Olá, eu sou o Matheus Muniz!
 
-Oi, eu sou Matheus Muniz 🙋🏻‍♂️ e sou Desenvolvedor de Software 💻.
+Sou um **Desenvolvedor Back-End** especializado em **C#**, **.NET Core**, **SQL** e **DevExpress**. 
+Crio soluções eficientes e escaláveis, sempre buscando qualidade e performance.
 
-Adoro trabalhar com código e acho que é uma coisa muito legal poder criar coisas novas com a programação. Minha linguagem favorita é o C#, mas também tenho experiência com o SQL, Git e um pouco de HTML 📝.
+---
 
-Já trabalho na área há dois anos e, no momento, estou estudando Análise e Desenvolvimento de Sistemas 📚. Adoro aprender coisas novas e sempre estou procurando oportunidades para me desenvolver e crescer como profissional 💪🏻.
+## ⚙️ &nbsp;Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/DevExpress-ff7200?style=for-the-badge&logo=devexpress&logoColor=white" alt="DevExpress"/>
+</p>
 
-Obrigado por parar aqui no meu perfil do GitHub! 🙏🏻
+---
 
-##
+## 🌐 &nbsp;Onde me encontrar
+<p align="left">
+  <!-- Ajuste os links e nomes conforme seu usuário/URLs -->
+  <a href="https://instagram.com/seu_perfil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:seu_email" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/seu_linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-![Snake animation](https://github.com/mmuniz33/mmuniz33/blob/output/github-contribution-grid-snake.svg)
+---
 
-## Linguagens
-
-[<img align="center" alt="mat-Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">](https://github.com/MMUNIZ33)
+> _"Transformando café em código, todos os dias."_ ☕
