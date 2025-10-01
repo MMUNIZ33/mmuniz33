@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+[Read this page in English](README.en.md)
+
 # 👋 Olá! Eu sou o Matheus Muniz
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A4C93&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-End;Especialista+em+.NET+%26+C%23;Criando+soluções+escaláveis;Transformando+café+em+código+☕" alt="Typing SVG" />
@@ -43,6 +45,24 @@ public class Matheus : Developer
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+### 🚀 Principais Projetos e Experiências
+
+- **Modernização de Sistema Legado (.NET)**
+  - Atuação em todas as fases do ciclo de vida de um sistema corporativo com mais de 10 anos, implementando melhorias, manutenções e novas funcionalidades.
+  - **Tecnologias:** .NET Framework, .NET Core, C#, SOLID.
+
+- **Integrações de Pagamentos e Assinaturas**
+  - Desenvolvimento de integrações com APIs para geração de boletos (Banco do Brasil, Itaú) e assinaturas digitais (Zapsign).
+  - **Ferramentas:** Postman para testes e validação de APIs.
+
+- **Atualização de Interfaces (UI)**
+  - Substituição de tecnologias legadas (FastReports, Krypton Forms) por interfaces modernas e ricas com **DevExpress**.
+
+- **Infraestrutura e Mensageria**
+  - Experiência na utilização de **AWS** e **RabbitMQ** para escalar sistemas e garantir uma comunicação assíncrona e eficiente entre serviços.
 
 ---
 
